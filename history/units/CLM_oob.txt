@@ -1,27 +1,32 @@
 army = {
-	name = "Ejército de Colombia"
+	name = "Ejï¿½rcito de Colombia"
 	location = 2253
 	regiment = {
-		name= "1. Brigada de Infantería"
+		name= "1. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 2247
 	}
 
 	regiment = {
-		name= "2. Brigada de Infantería"
+		name= "2. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 2252
 	}
 
 	regiment = {
-		name= "3. Brigada de Infantería"
+		name= "3. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 2254
 	}
 
 	regiment = {
-		name= "1. Brigada de Caballería"
+		name= "1. Brigada de Caballerï¿½a"
 		type = cuirassier
+		home = 2250
+	}
+	regiment = { 
+		name = "cavalo"
+		type = infantry
 		home = 2250
 	}
 
