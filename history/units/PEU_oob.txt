@@ -1,10 +1,20 @@
 leader = {
-	name = "Andres de Santa Cruz"
+	name = "PERU DE NATAL"
+	date = 1824.1.1
 	type = land
-	date = 1836.1.1
-	personality = defence_minus_2.1
+	personality = defence_5.1
 	background = attack_1.1
+	prestige = 1
 }
+leader = {
+	name = "PERU DO POVO"
+	date = 1824.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_5.1
+	prestige = 1
+}
+
 
 navy = {
 	name = "Marina de Guerra del Peru"
