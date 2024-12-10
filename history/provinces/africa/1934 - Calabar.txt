@@ -1,0 +1,12 @@
+owner = CLA
+controller = CLA
+add_core = CLA
+add_core = ARO
+trade_goods = coal
+life_rating = 35
+1836.1.2 = {
+	remove_core = CLA
+	owner = WRI
+	controller = WRI
+	add_core = WRI
+}

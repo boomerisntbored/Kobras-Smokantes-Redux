@@ -1,0 +1,208 @@
+#Basra Region (12000) #see Iraq.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Kuwait (12000/3000 POPS) #now part of Kuwait
+935 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 2725
+    }
+}
+#Bahrain Region (28000) #see Saudi Arabia.txt for balance of region
+#under the rule of Trucial States in 1836
+#Bahrain (20000/5000 POPS) #now part of Bahrein
+1162 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 62
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = sunni
+        size = 37
+    }
+
+    officers = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 4625
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = shiite
+        size = 125
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = shiite
+        size = 375
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = shiite
+        size = 7000
+    }
+}
+#Doha (8000/2000 POPS) #now part of Qatar
+1165 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 62
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 62
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 62
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 4562
+    }
+}
+#Uman Region (36000) #see Oman.txt for balance of region
+#under the rule of Oman in 1836
+#Abu Dhabi (20000/5000 POPS) #now part of UAE
+1167 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 62
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = sunni
+        size = 37
+    }
+
+    officers = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 625
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 2750
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 9125
+    }
+}
+#Dubai (16000/4000 POPS)   #now part of UAE
+1168 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 187
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 375
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 9062
+    }
+}

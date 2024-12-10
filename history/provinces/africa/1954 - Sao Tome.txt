@@ -1,0 +1,11 @@
+owner = POR
+controller = POR
+trade_goods = coffee
+life_rating = 30
+colonial = 2
+
+1836.1.2 = {
+	owner = LOA
+	controller = LOA
+	add_core = LOA
+}

@@ -1,0 +1,15 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = SER
+add_core = HUN
+add_core = YUG
+trade_goods = wool
+life_rating = 35
+1836.1.2 = {
+	remove_core = AUS
+	remove_core = HUN
+	owner = SER
+	controller = SER
+	add_core = SER
+}

@@ -1,0 +1,12 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = coal
+life_rating = 35
+1836.1.2 = {
+	remove_core = TUR
+	remove_core = EGY
+	owner = ISR
+	controller = ISR
+	add_core = ISR
+}

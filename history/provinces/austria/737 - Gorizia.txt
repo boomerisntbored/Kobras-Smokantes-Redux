@@ -1,0 +1,14 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = VEN
+add_core = SLO
+trade_goods = grain
+life_rating = 36
+1836.1.2 = {
+	remove_core = AUS
+	remove_core = VEN
+	owner = SLO
+	controller = SLO
+	add_core = SLO
+}

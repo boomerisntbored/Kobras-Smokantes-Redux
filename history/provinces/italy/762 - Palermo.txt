@@ -1,0 +1,13 @@
+owner = SIC
+controller = SIC
+add_core = SIC
+add_core = ITA
+trade_goods = fish
+naval_base = 1
+life_rating = 37
+1836.1.2 = {
+	remove_core = SIC
+	owner = TUN
+	controller = TUN
+	add_core = TUN
+}

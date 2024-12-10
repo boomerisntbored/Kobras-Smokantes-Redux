@@ -1,0 +1,12 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+add_core = PRG
+trade_goods = tropical_wood
+life_rating = 30
+1836.1.2 = {
+	remove_core = BOL
+	owner = PRG
+	controller = PRG
+	add_core = PRG
+}

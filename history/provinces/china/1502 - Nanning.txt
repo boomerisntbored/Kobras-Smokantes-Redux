@@ -1,0 +1,14 @@
+owner = GXI
+controller = GXI
+add_core = CHI
+add_core = GXI
+trade_goods = cotton
+life_rating = 30
+
+1836.1.2 = {
+	remove_core = CHI
+	remove_core = GXI
+	owner = DAI
+	controller = DAI
+	add_core = DAI
+}

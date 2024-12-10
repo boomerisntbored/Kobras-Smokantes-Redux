@@ -1,0 +1,126 @@
+#Rio de Oro Region (20000) #see Mauritania.txt for balance of region
+#uncolonized in 1836
+#Al Aiyun (12000/3000 POPS)
+1773 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 23
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 78
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 1417
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 2835
+    }
+}
+#Dahkla (8000/2000 POPS)
+1774 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 23
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 78
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 1417
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 23
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 78
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 1417
+    }
+}

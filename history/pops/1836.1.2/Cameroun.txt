@@ -1,0 +1,603 @@
+#Cameroun Region (728000)
+#uncolonized in 1836/ruled by the Kings of Duala
+#Douala (328000/82000 POPS)
+1956 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 3837
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1947
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 7795
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1947
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 144642
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 33075
+    }
+}
+#Buea (224000/56000 POPS)
+1957 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2538
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1298
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 5315
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1298
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 93494
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 28350
+    }
+}
+#Kribi (176000/44000 POPS)
+1958 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 590
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2480
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 49434
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1711
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 27405
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#Sanaga-Kadei Region (940000)
+#uncolonized in 1836
+#Yaounde (344000/86000 POPS)
+1959 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1239
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2656
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 39690
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 21262
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2716
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1357
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 5491
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 92963
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 33075
+    }
+}
+#Bafoussam (276000/69000 POPS)
+1960 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 3247
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1653
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 6554
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1653
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 105012
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 44887
+    }
+}
+#Bertoua (320000/80000 POPS)
+1962 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2892
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1474
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 5905
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1474
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 80382
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 40162
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1711
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 25042
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14175
+    }
+}
+#Kwararafa Region (372000) #see Nigeria.txt for balance of region
+#uncolonized in 1836
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4370
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2243
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 8799
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2243
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 150194
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 51975
+    }
+}
+#Adamawa Region (268000) #see Nigeria.txt for balance of region
+#under the rule of Sokoto 1836
+#Ngaoundere (160000/40000 POPS) #now part of Cameroun
+1963 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1180
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 590
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2480
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 46834
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1357
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 30357
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#uncolonized/under the rule of Borno 1836
+#Maroua (108000/27000 POPS) #now part of Cameroun
+1964 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 12638
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 8622
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 590
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 10807
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1062
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 19548
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}

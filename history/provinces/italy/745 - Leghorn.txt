@@ -1,0 +1,13 @@
+owner = PAP
+controller = PAP
+add_core = PAP
+add_core = TUS
+add_core = ITA
+trade_goods = coal
+life_rating = 37
+1836.1.2 = {
+	remove_core = PAP
+	owner = TUS
+	controller = TUS
+	add_core = TUS
+}

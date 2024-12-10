@@ -1,0 +1,11 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = fruit
+life_rating = 35
+1836.1.2 = {
+	remove_core = FRA
+	owner = WLL
+	controller = WLL
+	add_core = WLL
+}

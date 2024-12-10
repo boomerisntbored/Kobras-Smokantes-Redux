@@ -1,0 +1,498 @@
+#Mashonaland Region (296000)
+#uncolonized in 1836/dominated by Mutapa in 1836
+#Harare (68000/17000 POPS)
+2068 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 432
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21537
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2835
+    }
+}
+#Gweru (96000/24000 POPS)
+2069 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 393
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1890
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 393
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 34413
+    }
+}
+#Mutare (96000/24000 POPS)
+2070 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 668
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1732
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 31538
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2835
+    }
+}
+#Kariba (36000/9000 POPS)
+2635 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 8701
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2835
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+}
+#Matabeleland Region (188000)
+#uncolonized in 1836/dominated by the Ndebele in 1836
+#Bulawayo (68000/17000 POPS)
+2071 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 393
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 7
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 31
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 17048
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 4252
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2873
+    }
+}
+#Hwange (48000/64000 POPS)
+2072 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 8622
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 393
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 7205
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 23
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+}
+#Masvingo (72000/18000 POPS)
+2073 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2835
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1260
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 275
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 22955
+    }
+}

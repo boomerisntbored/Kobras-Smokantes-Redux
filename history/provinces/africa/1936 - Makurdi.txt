@@ -1,0 +1,12 @@
+owner = SOK
+controller = SOK
+add_core = SOK
+trade_goods = grain
+life_rating = 15
+
+1836.1.2 = {
+	remove_core = SOK
+	owner = BEN
+	controller = BEN
+	add_core = BEN
+}

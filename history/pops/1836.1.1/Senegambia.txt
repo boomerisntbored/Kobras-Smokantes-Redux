@@ -1,0 +1,561 @@
+#Senegambia.txt includes modern Senegal and Gambia
+#Senegambia Region (444000)
+#uncolonized in 1836/ruled by Damel of Wolof
+#Dakar (8000/2000 POPS)
+1783 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 4252
+    }
+}
+#Linguere (108000/27000 POPS)
+1786 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1180
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 648
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2538
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 49316
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Diourbel (44000/11000POPS)
+1787 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1062
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 19194
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+}
+#Kaolack (80000/20000 POPS) #kingdom of the Sereer
+1788 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 33604
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Mboul (72000/18000 POPS)
+2573 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 766
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1711
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 22443
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 16537
+    }
+}
+#uncolonized/French have trade post in 1836
+#Saint-Louis (24000/6000 POPS)
+1784 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6378
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 4015
+    }
+}
+#uncolonized/British have trade post in 1836
+#Banjul (108000/27000 POPS) #now part of Gambia
+1785 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 826
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2243
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 40870
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 17186
+    }
+}
+#Futa Region (328000)
+#uncolonized in 1836/ruled by Emir of Tukulor
+#Podor (116000/29000 POPS)
+1789 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1298
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 708
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2774
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 708
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 51030
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#Matam (72000/18000 POPS)
+1790 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 766
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1711
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 27405
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#Bakel (140000/35000 POPS)
+1791 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1357
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 708
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2774
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 708
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 51147
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 13169
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#Casamance Region (224000) #see Guinea Bissau.txt and Guinea.txt for balance of Region
+#uncolonized in 1836/ruled by Kingdom of Gabu
+#Ziguinchour (120000/30000 POPS)
+1792 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1357
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2835
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 48724
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 16537
+    }
+}
+#Velingara (104000/26000 POPS
+1793 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 590
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2480
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 47071
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}

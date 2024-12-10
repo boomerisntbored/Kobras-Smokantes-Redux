@@ -1,0 +1,13 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCA
+trade_goods = fish
+life_rating = 30
+colonial = 2
+1836.1.2 = {
+	remove_core = DEN
+	owner = SCO
+	controller = SCO
+	add_core = SCO
+}

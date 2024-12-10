@@ -1,0 +1,17 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = UKR
+add_core = MOL
+add_core = RUT
+add_core = ROM
+trade_goods = fruit
+life_rating = 35
+1836.1.2 = {
+	remove_core = AUS
+	remove_core = RUT
+	remove_core = UKR
+	owner = MOL
+	controller = MOL
+	add_core = MOL
+}

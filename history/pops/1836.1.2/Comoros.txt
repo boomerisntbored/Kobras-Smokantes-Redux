@@ -1,0 +1,138 @@
+#Comoro Islands Region (64000)
+#uncolonized in 1836/dominated by sultan of Anjouan
+#Comoro Islands (56000/14000 POPS)
+2123 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 766
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2598
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 8089
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12993
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Mayotte (8000/2000 POPS)
+2124 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 34
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 23
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 945
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 34
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2125
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+}

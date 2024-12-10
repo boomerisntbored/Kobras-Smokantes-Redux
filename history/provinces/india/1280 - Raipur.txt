@@ -1,0 +1,12 @@
+owner = NAG
+controller = NAG
+add_core = NAG
+add_core = HND
+trade_goods = iron
+life_rating = 30
+
+1836.1.2 = {
+	owner = ORI
+	controller = ORI
+	add_core = ORI
+}

@@ -1,0 +1,14 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = YUG
+add_core = CRO
+trade_goods = fish
+life_rating = 35
+1836.1.2 = {
+	remove_core = AUS
+	remove_core = CRO
+	owner = MON
+	controller = MON
+	add_core = MON
+}

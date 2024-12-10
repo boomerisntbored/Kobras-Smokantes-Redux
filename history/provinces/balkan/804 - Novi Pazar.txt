@@ -1,0 +1,13 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = SER
+add_core = YUG
+trade_goods = iron
+life_rating = 35
+1836.1.2 = {
+	remove_core = TUR
+	owner = SER
+	controller = SER
+	add_core = SER
+}

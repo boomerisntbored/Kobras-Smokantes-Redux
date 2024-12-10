@@ -1,0 +1,12 @@
+owner = JOD
+controller = JOD
+add_core = JOD
+add_core = HND
+trade_goods = tea
+life_rating = 30
+
+1836.1.2 = {
+	owner = JOD
+	controller = JOD
+	add_core = JOD
+}

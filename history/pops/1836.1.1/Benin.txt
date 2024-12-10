@@ -1,0 +1,366 @@
+#Dahomey Region (512000)
+#uncolonized in 1836/ruled by Dahomey
+#Cotonou (272000/68000 POPS)
+1919 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2302
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 4842
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 70814
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1771
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 32306
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 30712
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 4252
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+}
+#Abomey (240000/60000 POPS)
+1920 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2480
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 5019
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1298
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 100699
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 8622
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 6378
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 6378
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 884
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 17127
+    }
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 590
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 10807
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 4252
+    }
+}

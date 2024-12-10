@@ -1,0 +1,12 @@
+owner = SIC
+controller = SIC
+add_core = SIC
+add_core = ITA
+trade_goods = sulphur
+life_rating = 37
+1836.1.2 = {
+	remove_core = SIC
+	owner = TUN
+	controller = TUN
+	add_core = TUN
+}

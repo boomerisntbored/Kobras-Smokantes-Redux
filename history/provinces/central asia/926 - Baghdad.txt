@@ -1,0 +1,12 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = IRQ
+trade_goods = grain
+life_rating = 40
+1836.1.2 = {
+	remove_core = TUR
+	owner = BAB
+	controller = BAB
+	add_core = BAB
+}

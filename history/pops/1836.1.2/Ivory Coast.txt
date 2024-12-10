@@ -1,0 +1,576 @@
+#Ivory Coast Region (710000)
+#uncolonized in 1836
+#Grand Lahou (108000/27000 POPS)
+1892 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2538
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 46953
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#Sassandra (282000/47000 POPS)
+1893 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 18957
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1711
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3543
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 52032
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 23625
+    }
+}
+#Grand Bassam (88000/22000 POPS)
+1894 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1002
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 37857
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Bouake (60000/15000 POPS)
+1895 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21084
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6378
+    }
+}
+#Man (80000/20000 POPS)
+1896 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 945
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 17245
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1002
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 35494
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#Akoupe (92000/23000 POPS)
+1897 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1002
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2243
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 590
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 42878
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Worodugu Region (160000) #see Mali.txt and Burkina.txt for balance of Region
+#uncolonized in 1836/under the rule of the Emirs of Kong
+#Kong (88000/22000 POPS)
+1898 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 34
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1417
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 16324
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21556
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Bundoukou (72000/18000 POPS)
+1899 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1298
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 16594
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 826
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 15059
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region
+#uncolonized in 1836
+#Odienne (96000/24000 POPS) #now part of Ivory Coast
+1900 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 708
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1535
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 27581
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 590
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 10807
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 6378
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}

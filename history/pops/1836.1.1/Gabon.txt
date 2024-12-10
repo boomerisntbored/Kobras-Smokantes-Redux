@@ -1,0 +1,191 @@
+#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region
+#uncolonized in 1836/under the influence of Teke
+#Libreville (48000/12000 POPS)
+1972 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 6378
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1062
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 19372
+    }
+}
+#Mayumbe (32000/8000 POPS)
+1974 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 882
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 440
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2362
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 440
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 43112
+    }
+}
+#Moanda (28000/7000 POPS)
+1975 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 735
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 440
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2065
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 440
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 37647
+    }
+}
+#uncolonized in 1836
+#Makokou (72000/18000 POPS)
+1976 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 17245
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21556
+    }
+}

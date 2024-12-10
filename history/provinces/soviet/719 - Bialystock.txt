@@ -1,0 +1,15 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = POL
+add_core = PLC
+add_core = BYE
+trade_goods = grain
+life_rating = 35
+1836.1.2 = {
+	remove_core = RUS
+	remove_core = BYE
+	owner = POL
+	controller = POL
+	add_core = POL
+}

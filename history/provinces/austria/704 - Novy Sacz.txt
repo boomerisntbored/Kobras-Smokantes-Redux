@@ -1,0 +1,16 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = POL
+add_core = PLC
+trade_goods = grain
+life_rating = 35
+1836.1.2 = {
+	remove_core = AUS
+	remove_core = POL
+	remove_core = UKR
+	remove_core = RUT
+	owner = KRA
+	controller = KRA
+	add_core = KRA
+}

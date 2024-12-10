@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = coal
+life_rating = 45
+railroad = 1
+1836.1.2 = {
+	remove_core = ENG
+	owner = SCO
+	controller = SCO
+	add_core = SCO
+}

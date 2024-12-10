@@ -1,0 +1,11 @@
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+trade_goods = tropical_wood
+life_rating = 35
+1836.1.2 = {
+	remove_core = BRZ
+	owner = URU
+	controller = URU
+	add_core = URU
+}

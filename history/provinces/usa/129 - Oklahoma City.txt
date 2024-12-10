@@ -1,0 +1,10 @@
+trade_goods = grain
+life_rating = 35
+
+1836.1.2 = {
+	remove core = MEX
+	owner = TEX
+	controller = TEX
+	add_core = TEX
+	add_core = USA
+}

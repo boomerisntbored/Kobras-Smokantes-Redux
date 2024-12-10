@@ -1,0 +1,12 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+trade_goods = fruit
+life_rating = 35
+
+1836.1.2 = {
+	remove_core = SPA
+	owner = CAT
+	controller = CAT
+	add_core = CAT
+}

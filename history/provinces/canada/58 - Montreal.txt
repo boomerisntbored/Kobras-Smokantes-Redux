@@ -1,0 +1,13 @@
+owner = CAN
+controller = CAN
+add_core = CAN
+add_core = QUE
+trade_goods = cattle
+life_rating = 45
+
+1836.1.2 = {
+	remove_core = CAN
+	owner = QUE
+	controller = QUE
+	add_core = QUE
+}

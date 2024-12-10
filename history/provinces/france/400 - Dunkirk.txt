@@ -1,0 +1,12 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = fish
+life_rating = 33
+fort = 2
+1836.1.2 = {
+	remove_core = FRA
+	owner = FLA
+	controller = FLA
+	add_core = FLA
+}

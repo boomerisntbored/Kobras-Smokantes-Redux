@@ -1,0 +1,12 @@
+owner = RUS
+controller = RUS
+trade_goods = fish
+life_rating = 20
+colonial = 2
+
+1836.1.2 = {
+	owner = COL
+	controller = COL
+	add_core = COL
+	colonial = 0
+}

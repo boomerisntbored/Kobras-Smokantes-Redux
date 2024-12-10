@@ -1,0 +1,12 @@
+owner = POR
+controller = POR
+trade_goods = cotton
+life_rating = 35
+colonial = 2
+naval_base = 1
+
+1836.1.2 = {
+	owner = TRN
+	controller = TRN
+	add_core = TRN
+}

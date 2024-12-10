@@ -1,0 +1,487 @@
+#Gold Coast Region (268000)
+#uncolonized in 1836
+#Accra (132000/33000 POPS) #Danish Tradepost in 1836
+1907 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1535
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3129
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 826
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 57526
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14175
+    }
+}
+#Cape Coast (48000/12000 POPS) #British Tradepost in 1836
+1908 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21084
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+}
+#Sekondi (88000/22000 POPS) #Dutch Tradepost in 1836
+1909 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1002
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 37857
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Asante Region (680000)
+#uncolonized in 1836/under the rule of Asante
+#Kumasi (312000/78000 POPS)
+1910 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 3543
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1829
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 7381
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1890
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 145647
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 23625
+    }
+}
+#Kintampo (148000/37000 POPS)
+1911 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1711
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3543
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 63844
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 16537
+    }
+}
+#Wa (160000/40000 POPS)
+1912 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 30297
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2007
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 36558
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12814
+    }
+}
+#Tamale (60000/15000 POPS)
+1913 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12933
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12402
+    }
+}
+#Togo Region (136000) #see Togo.txt for balance of region
+#uncolonized in 1836
+#Ho (100000/25000 POPS)
+1915 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21319
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 826
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1711
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 27286
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#uncolonized in 1836/under the rule of Asante
+#Yendi (36000/9000 POPS)
+1916 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 14941
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+}

@@ -1,0 +1,13 @@
+owner = AUS
+controller = AUS
+add_core = LOM
+add_core = ITA
+trade_goods = iron
+life_rating = 40
+fort = 1
+1836.1.2 = {
+	remove_core = AUS
+	owner = LOM
+	controller = LOM
+	add_core = LOM
+}

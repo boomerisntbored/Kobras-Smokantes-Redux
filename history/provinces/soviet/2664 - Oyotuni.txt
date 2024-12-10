@@ -1,0 +1,8 @@
+add_core = RUS
+trade_goods = grain
+life_rating = 15
+
+1836.1.2 = {
+	remove_core = RUS
+	
+}

@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = fish
+life_rating = 30
+terrain = plains
+1836.1.2 = {
+	remove_core = ENG
+	owner = DEN
+	controller = DEN
+	add_core = DEN
+}

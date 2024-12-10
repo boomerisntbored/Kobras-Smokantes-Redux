@@ -1,0 +1,230 @@
+#Togo Region (368000) #see Ghana.txt for balance of region
+#uncolonized in 1836
+#Lome (216000/54000 POPS)
+1914 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1220
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 630
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2480
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 630
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 48588
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 432
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 18623
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11025
+    }
+}
+#Atakpane (128000/32000 POPS)
+1917 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 393
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1102
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 20080
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 10040
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 315
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 157
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12796
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 3150
+    }
+}
+#Sokode (24000/6000 POPS)
+1918 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 315
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 5748
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 78
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 157
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 38
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 2835
+    }
+}

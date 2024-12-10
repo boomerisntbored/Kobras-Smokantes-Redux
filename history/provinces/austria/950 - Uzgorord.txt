@@ -1,0 +1,17 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = RUT
+add_core = SLV
+add_core = HUN
+add_core = CZH
+trade_goods = coal
+life_rating = 35
+1836.1.2 = {
+	remove_core = AUS
+	remove_core = HUN
+	remove_core = RUT
+	owner = SLV
+	controller = SLV
+	add_core = SLV
+}

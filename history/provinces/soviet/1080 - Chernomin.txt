@@ -1,0 +1,11 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+trade_goods = cattle
+life_rating = 35
+1836.1.2 = {
+	remove_core = RUS
+	owner = KOR
+	controller = KOR
+	add_core = KOR
+}

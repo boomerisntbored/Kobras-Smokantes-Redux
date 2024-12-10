@@ -1,0 +1,12 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = grain
+life_rating = 35
+
+1836.1.2 = {
+	remove core = EGY
+	owner = ETH
+	controller = ETH
+	add_core = ETH
+}

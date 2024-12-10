@@ -1,0 +1,9 @@
+owner = CLM
+controller = CLM
+add_core = BRZ
+trade_goods = tobacco
+life_rating = 25
+1836.1.2 = {
+	remove_core = BRZ
+	add_core = CLM
+}

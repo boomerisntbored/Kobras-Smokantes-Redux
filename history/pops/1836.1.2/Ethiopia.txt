@@ -1,0 +1,1321 @@
+#Abyssinia Region (2172000)
+#under the rule of Ethiopia in 1836
+#Gonder (452000/113000 POPS)
+1852 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1680
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 364
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 336
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 924
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 4536
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 72800
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 8960
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = jewish
+        size = 56
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = jewish
+        size = 84
+    }
+
+    artisans = {
+        culture = amhara
+        religion = jewish
+        size = 280
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = jewish
+        size = 28
+    }
+
+    farmers = {
+        culture = amhara
+        religion = jewish
+        size = 2912
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 616
+    }
+
+    officers = {
+        culture = amhara
+        religion = animist
+        size = 280
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 308
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 1316
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 336
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 27384
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 2240
+    }
+}
+#Debre Tabor (468000/117000 POPS)
+1853 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 560
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2296
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 44184
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 7840
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 1456
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 756
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 3080
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 756
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 54432
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 13440
+    }
+}
+#Matamma (464000/116000 POPS)
+1854 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1148
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 588
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2352
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 48552
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 4480
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = jewish
+        size = 112
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = jewish
+        size = 84
+    }
+
+    artisans = {
+        culture = amhara
+        religion = jewish
+        size = 616
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = jewish
+        size = 112
+    }
+
+    farmers = {
+        culture = amhara
+        religion = jewish
+        size = 9156
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 1176
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 616
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 2492
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 616
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 52192
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 4480
+    }
+}
+#Debre Markos (788000/197000 POPS)
+1855 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1176
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 616
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2464
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 49504
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 3136
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 1596
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 6412
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 4508
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 136668
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 7840
+    }
+}
+#Tigray Region (316000)
+#under the rule of Ethiopia in 1836
+#Aksum (140000/35000 POPS)
+1856 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 644
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 56
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 56
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 336
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 24388
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 56
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 28
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 56
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 224
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 56
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 4060
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+}
+#Antalo (128000/32000 POPS)
+1857 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 560
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 280
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1176
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 20384
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 112
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 84
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 336
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 56
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 6132
+    }
+}
+#Awsa (48000/12000 POPS)
+1858 = {
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 252
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 560
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 10108
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 2240
+    }
+}
+#Shoa Region (2068000)
+#under the rule of Ethiopia in 1836
+#Ankober (1236000/309000 POPS)
+1859 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 5208
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 252
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 308
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 2660
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 10640
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 11200
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 23492
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 10080
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1512
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 84
+    }
+
+    officers = {
+        culture = amhara
+        religion = coptic
+        size = 280
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 812
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 3220
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 812
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 47124
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 26880
+    }
+}
+#Awasa (448000/112000 POPS)
+1860 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1036
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 532
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2128
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 532
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 45052
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 3360
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1484
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 756
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 3052
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 1204
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 59696
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 10080
+    }
+}
+#Aselia (384000/96000POPS)
+1861 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 672
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 336
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 364
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 29708
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 2240
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 1400
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 728
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 2968
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 728
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 55776
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 11200
+    }
+}
+#Sidamo-Welega Region (1628000)
+#under the "rule" of Ethiopia in 1836
+#Bonga (368000/92000 POPS)
+1862 = {
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 2016
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 1036
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 4088
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 1036
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 80304
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 14560
+    }
+}
+#Asosa (540000/135000 POPS)
+1863 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 504
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 280
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 280
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 20216
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 1512
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 812
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 3220
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 812
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 55692
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 47712
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 840
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 420
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 2128
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 420
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 38752
+    }
+}
+#Negele (720000/180000 POPS)
+1864 = {
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 980
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 504
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 2072
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 504
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 39620
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 7840
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 2940
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 924
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 5992
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 1512
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 116312
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 21280
+    }
+}
+#Ogaden Region (786000)
+#under the "rule" of Ethiopia in 1836
+#Harer (384000/96000 POPS)
+1865 = {
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 896
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = sunni
+        size = 16
+    }
+
+    officers = {
+        culture = amhara
+        religion = sunni
+        size = 11
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 476
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 1876
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 448
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 28756
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 252
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 588
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 1344
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 952
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 476
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 2408
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 476
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 44072
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 12320
+    }
+}
+#uncolonized in 1836}
+#Goba (296000/74000 POPS)
+1866 = {
+    aristocrats = {
+        culture = amhara
+        religion = animist
+        size = 560
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = animist
+        size = 308
+    }
+
+    artisans = {
+        culture = amhara
+        religion = animist
+        size = 1204
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = animist
+        size = 308
+    }
+
+    farmers = {
+        culture = amhara
+        religion = animist
+        size = 22260
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 700
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 364
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 1792
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 364
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 32732
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 308
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 168
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 840
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 168
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 15316
+    }
+}
+#Werder (328000/82000 POPS)
+1867 = {
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 308
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 168
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 840
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 168
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 15316
+    }
+
+    aristocrats = {
+        culture = amhara
+        religion = sunni
+        size = 1456
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = sunni
+        size = 868
+    }
+
+    artisans = {
+        culture = amhara
+        religion = sunni
+        size = 2996
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = sunni
+        size = 756
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 64708
+    }
+
+    slaves = {
+        culture = amhara
+        religion = animist
+        size = 4480
+    }
+}

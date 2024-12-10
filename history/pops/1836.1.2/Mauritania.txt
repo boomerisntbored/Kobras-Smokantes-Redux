@@ -1,0 +1,383 @@
+#Trarza-Brakna Region (276000)
+#uncolonized in 1836/ruled by Emir of Trarza
+#Nouakchott (92000/23000 POPS)
+1775 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1062
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 46
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 529
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2184
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 590
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 42819
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Rosso (72000/18000 POPS)
+1776 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 826
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2125
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 26932
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 11812
+    }
+}
+#uncolonized in 1836/ruled by Emir of Brakna
+#Aleg (84000/21000 POPS)
+1777 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 920
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 23
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2007
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 519
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 31479
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14175
+    }
+}
+#Maghama (28000/7000 POPS)
+1778 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 648
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 8208
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Adrar-Hodh Region (52000)
+#uncolonized in 1836/ruled by Emirs of Adrar
+#Shingit (12000/3000 POPS)
+1779 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 94
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 6
+    }
+
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6378
+    }
+}
+#Tichit (12000/3000 POPS)
+1780 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6378
+    }
+}
+#Walata (28000/7000 POPS)
+1781 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6378
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 472
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 8681
+    }
+}
+#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
+#uncolonized in 1836
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania
+1782 = {
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 23
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 34
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 2125
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 117
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 176
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 353
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6378
+    }
+}

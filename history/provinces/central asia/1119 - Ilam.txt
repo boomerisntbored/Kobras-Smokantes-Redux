@@ -1,0 +1,11 @@
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = cotton
+life_rating = 35
+1836.1.2 = {
+	remove_core = PER
+	owner = BAB
+	controller = BAB
+	add_core = BAB
+}

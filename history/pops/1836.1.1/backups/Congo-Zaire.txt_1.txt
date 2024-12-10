@@ -1,0 +1,908 @@
+#Congo Region (164000)
+#uncolonized in 1836/ruled by Teke in 1836
+#Kinshasa (128000/32000 POPS)
+1982 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1474
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3011
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 53037
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 16537
+    }
+}
+#Boma (36000/9000 POPS)
+1983 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12402
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Kasai Region (496000)
+#uncolonized in 1836/under Lunda control
+#Kananga (184000/46000 POPS)
+1984 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 176
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 117
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 1474
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1890
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3897
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1002
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 72586
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 25987
+    }
+}
+#Kumbana (124000/31000 POPS)
+1985 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1535
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 30061
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1771
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 32306
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+}
+#uncolonized in 1836/dominated by the Luba
+#Lusambo (188000/47000 POPS)
+1986 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1535
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 20611
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3661
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 766
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 66679
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14175
+    }
+}
+#Katanga Region (832000)
+#uncolonized in 1836/under the rule of Kazembe
+#Bunkeya (444000/111000 POPS)
+1987 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4606
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 46
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 189
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2302
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 9271
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 191480
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 590
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1535
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 27995
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 21262
+    }
+}
+#uncolonized in 1836/under Lunda control
+#Mussumba (108000/27000 POPS)
+1988 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1593
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 22856
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21556
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14175
+    }
+}
+#uncolonized in 1836/dominated by the Luba
+#Munza (280000/70000 POPS)
+1989 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2598
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 4842
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1239
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 80146
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 826
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2243
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 40635
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 30712
+    }
+}
+#Maniema Region (300000)
+#uncolonized in 1836/dominated by the Luba
+#Nyangwe (104000/26000 POPS)
+1990 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 529
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1239
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 18900
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 590
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1535
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 27995
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Uvira (76000/19000 POPS)
+1991 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1829
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 472
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 31775
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Basoko (120000/30000 POPS)
+1992 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1357
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2835
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 48961
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 16537
+    }
+}
+#Equateur Region (232000)
+#uncolonized in 1836
+#Irebu (60000/15000 POPS)
+1993 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 25572
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Nsheng (60000/15000 POPS)
+1994 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1417
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 353
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 25572
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 7087
+    }
+}
+#Gemena (112000/28000 POPS)
+1995 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1298
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2656
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 708
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 51383
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 9450
+    }
+}
+#Ituri-Uele Region (337000)
+#uncolonized in 1836/dominated by Luba
+#Kisangani (156000/39000 POPS)
+1996 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1829
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3719
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 945
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 65795
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 18900
+    }
+}
+#uncolonized in 1836/under the domination of the Azande
+#Mungbane (76000/19000 POPS)
+1997 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 884
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 14765
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 412
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1180
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 235
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21556
+    }
+
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4725
+    }
+}
+#Baramo (108000/27000 POPS)
+1998 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1239
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3188
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 648
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 58057
+    }
+}

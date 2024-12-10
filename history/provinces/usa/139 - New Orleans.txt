@@ -1,0 +1,12 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = grain
+life_rating = 40
+naval_base = 1
+
+1836.1.2 = {
+	owner = TEX
+	controller = TEX
+	add_core = TEX
+}

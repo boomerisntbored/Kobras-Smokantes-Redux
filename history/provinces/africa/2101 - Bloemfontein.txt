@@ -1,0 +1,16 @@
+owner = ORA
+controller = ORA
+add_core = ORA
+add_core = SAF
+trade_goods = wool
+life_rating = 35
+
+1836.1.2 = {
+	remove_core = ORA
+	remove_core = TRN
+	remove_core = SAF
+	owner = ZUL
+	controller = ZUL
+	add_core = ZUL
+}
+

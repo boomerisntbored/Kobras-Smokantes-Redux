@@ -1,0 +1,223 @@
+political_decisions = {
+	fatherland_volunteers = {
+		potential = {
+			tag = BRZ
+			government = hms_government
+			NOT = {
+				has_country_flag = pedro_said_it_best
+			}
+		}
+		allow = {
+			army_decision_making = 1
+			war = yes
+		}
+		effect = {
+			war_exhaustion = -1
+			prestige = 10
+			set_country_flag = pedro_said_it_best
+		}
+	}
+
+	law_1420_of_general_common_education = {
+		potential = {
+			tag = ARG
+			NOT = {
+				has_country_flag = 1420_passed
+			}
+		}
+		allow = {
+			social_science = 1
+			ruling_party_ideology = conservative
+		}
+		effect = {
+			years_of_research = 0.2
+			set_country_flag = 1420_passed
+		}
+	}
+
+	peru_bolivia_unification = {
+		potential = {
+			OR = {
+				tag = BOL
+				tag = PEU
+			}
+			NOT = { has_country_flag = peru_bolivia_unified }
+		}
+		allow = {
+			owns = 2292
+			owns = 2295
+			owns = 2297
+			owns = 2310
+			owns = 2316
+		}
+		effect = {
+			prestige = 10
+			PEU = { all_core = { add_core = THIS } }
+			BOL = { all_core = { add_core = THIS } }
+			add_accepted_culture = quechua
+			add_accepted_culture = aimara
+			add_accepted_culture = guarani
+			set_country_flag = peru_bolivia_unified
+		}
+	}
+
+	la_plata_unification = {
+		potential = {
+			primary_culture = platinean
+			NOT = { exists = LPL }
+		}
+		
+		allow = {
+			war = no
+			prestige = 30
+			ARG = {
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							province_id = 2131
+						}
+					}
+				}
+			}
+			PRG = {
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+							province_id = 2420
+						}
+					}
+				}
+			}
+			URU = {
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = { in_sphere = THIS }
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			badboy = 10
+			ARG = {
+				all_core = { add_core = LPL }
+			}
+			PRG = {
+				all_core = { add_core = LPL }
+			}
+			URU = {
+				all_core = { add_core = LPL }
+			}
+			BOL = {
+				all_core = { add_core = LPL }
+			}
+			change_tag = LPL
+			random_country = {
+				limit = {
+					tag = ARG
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = ARG }
+			}
+			random_country = {
+				limit = {
+					tag = ARG
+					exists = yes
+					ai = no
+				}
+				country_event = 98650
+			}
+			random_country = {
+				limit = {
+					tag = PRG
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = PRG }
+			}
+			random_country = {
+				limit = {
+					tag = PRG
+					exists = yes
+					ai = no
+				}
+				country_event = 98650
+			}
+			random_country = {
+				limit = {
+					tag = URU
+					exists = yes
+					ai = yes
+				}
+				THIS = { inherit = URU }
+			}
+			random_country = {
+				limit = {
+					tag = URU
+					exists = yes
+					ai = no
+				}
+				country_event = 98650
+			}
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					NOT = { primary_culture = platinean }
+					any_owned_province = { is_core = LPL }
+				}
+				any_owned = {
+					limit = { is_core = LPL }
+					secede_province = THIS
+				}
+			}
+			set_country_flag = banda_oriental_is_ours
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}		
+		}
+	}
+
+
+	claim_guyana = {
+		potential = {
+			OR = {
+				tag = BRZ
+				tag = GCO
+				tag = VNZ
+			}
+			NOT = { has_country_flag = guyana_claimed }
+		}
+		allow = {
+			owns = 2241
+			owns = 2240
+			owns = 2239
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = guyana_claimed
+			FRA_2241 = { add_core = THIS }
+			NET_2240 = { add_core = THIS }
+			ENG_1979 = { add_core = THIS }
+		}
+	}
+}

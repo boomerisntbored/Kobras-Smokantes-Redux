@@ -1,0 +1,8 @@
+trade_goods = coffee
+life_rating = 15
+
+1836.1.2 = {
+	owner = TRN
+	controller = TRN
+	add_core = TRN
+}

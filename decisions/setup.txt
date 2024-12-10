@@ -1,0 +1,121 @@
+political_decisions = {
+
+	global_setup = {
+		potential = {
+			host = yes
+			NOT = { has_global_flag = global_setup_done }
+		}
+
+		allow = {
+			exists = yes
+		}
+
+		effect = {
+			set_global_flag = global_setup_done
+			
+			#literacy adjustments
+			any_country = {
+				limit = {
+					tag = AUS
+				}
+				any_pop = {
+					limit = {
+						OR = {
+            				has_pop_culture = north_italian
+							has_pop_culture = slovak
+						}
+					}
+					literacy = 0.30
+				}
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = hungarian
+							has_pop_culture = slovene
+						}
+					}
+					literacy = 0.15
+				}
+			}
+      		any_country = {
+				limit = {
+					tag = FRA
+				}
+        		any_pop = {
+    				limit = {
+    					OR = {
+    						has_pop_culture = south_german
+    						has_pop_culture = flemish
+    						has_pop_culture = basque
+    						has_pop_culture = catalan
+    						has_pop_culture = north_italian
+    					}
+    				}
+    				literacy = 0.20
+    			}
+			}
+			any_country = {
+				limit = {
+					tag = ENG
+				}
+				any_pop = {
+    				limit = {
+    					OR = {
+    						has_pop_culture = irish
+    					}
+    				}
+    			literacy = 0.20
+    			}
+			}
+			any_country = {
+				limit = {
+					tag = RUS
+				}
+				
+				any_pop = {
+    				limit = {
+    					OR = {
+							has_pop_culture = finnish
+							has_pop_culture = swedish
+							has_pop_culture = ashkenazi
+    					}
+    				}
+    				literacy = 0.30
+    			}
+				any_pop = {
+    				limit = {
+							has_pop_culture = polish
+    				}
+    				literacy = 0.20
+    			}
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = russian
+							has_pop_culture = ukrainian
+							has_pop_culture = byelorussian
+						}
+					literacy = 0.10
+					}
+				}
+			}
+			
+			any_country = {
+				limit = {
+					tag = SPA
+				}
+				
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = basque
+							has_pop_culture = catalan
+							has_pop_culture = spanish
+						}
+					literacy = 0.25
+					}
+				}
+			}
+		}
+	}
+}
