@@ -6,7 +6,7 @@ REB 	= 	"countries/rebels.txt"
 #JesusFreakk Additions
 IBR		= "countries/Iberia.txt"
 BNF        = "countries/Belgium-Netherlands.txt"
-PBC		="countries/Peru-Bolivia Confederation"
+PBC		= "countries/Peru-Bolivia Confederation.txt"
 
 #Rileyo Additions
 EIC   = "countries/East India Company.txt"

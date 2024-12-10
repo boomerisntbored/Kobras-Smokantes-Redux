@@ -3,7 +3,7 @@ colonial_company_4 = { 205 200 110 }
 graphical_culture = BolivianGC
 
 party = {
-    name = "PEU_conservative"
+    name = "PBC_conservative"
     start_date = 1800.1.1
     end_date = 1851.1.1
 
@@ -33,7 +33,7 @@ party = {
 }
 
 party = {
-    name = "PEU_liberal"
+    name = "PBC_liberal"
     start_date = 1830.1.1
     end_date = 1851.1.1
 
@@ -63,7 +63,7 @@ party = {
 }
 
 party = {
-    name = "PEU_reactionary"
+    name = "PBC_reactionary"
     start_date = 1820.1.1
     end_date = 2000.1.1
 
@@ -78,7 +78,7 @@ party = {
 }
 
 party = {
-    name = "PEU_radical"
+    name = "PBC_radical"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -93,7 +93,7 @@ party = {
 }
 
 party = {
-    name = "PEU_socialist"
+    name = "PBC_socialist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -108,7 +108,7 @@ party = {
 }
 
 party = {
-    name = "PEU_communist"
+    name = "PBC_communist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -123,7 +123,7 @@ party = {
 }
 
 party = {
-    name = "PEU_fascist"
+    name = "PBC_fascist"
     start_date = 1900.1.1
     end_date = 2000.1.1
 
@@ -140,43 +140,43 @@ party = {
 unit_names = {
     dreadnought = {
         Chakana "Hanan Pacha" Inti "Machu Picchu" "Mama Cocha" "Mama Kuka" "Pacha Camac" Pariacaca Supay "Uku Pacha" "Almirante Montt"
-        Antofagasta Atacama Iquique Latorre O'Higgins República "San Martín" "Santiago de Chile" Valparaíso
+        Antofagasta Atacama Iquique Latorre O'Higgins Repï¿½blica "San Martï¿½n" "Santiago de Chile" Valparaï¿½so
     }
     ironclad = {
-        Ancash Arequipa Ayacucho Cajamarca Castilla Huánuco Loreto Rímac Velarde Villavisencio "Almirante Williams" Austral Blanco
-        "Blanco Encalada" "Capitán Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
+        Ancash Arequipa Ayacucho Cajamarca Castilla Huï¿½nuco Loreto Rï¿½mac Velarde Villavisencio "Almirante Williams" Austral Blanco
+        "Blanco Encalada" "Capitï¿½n Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
     }
     manowar = {
-        Arequipeño Balcarce Belgrano "Coronel Spano" Cruz Limeña Peruviana Protector Sacramento Unión Abtao Águila Araucano Chacabuco Fortunata
-        Galvarino Lautaro O'Higgins Potrillo "San Martín"
+        Arequipeï¿½o Balcarce Belgrano "Coronel Spano" Cruz Limeï¿½a Peruviana Protector Sacramento Uniï¿½n Abtao ï¿½guila Araucano Chacabuco Fortunata
+        Galvarino Lautaro O'Higgins Potrillo "San Martï¿½n"
     }
     cruiser = {
-        "Almirante Grau" "Capitán Quiñones" Chachapoyas "Comandante Aguirre" "Coronel Bolognesi" Huancavelica Lima Mayobamba Moquegua Trujillo
-        Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errázuriz" "Presidente Pinto"
+        "Almirante Grau" "Capitï¿½n Quiï¿½ones" Chachapoyas "Comandante Aguirre" "Coronel Bolognesi" Huancavelica Lima Mayobamba Moquegua Trujillo
+        Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errï¿½zuriz" "Presidente Pinto"
         Tupungato
     }
     frigate = {
-        Amazonas Apurimac Callao Independencia Mercedes Meteoro Monteagudo Palacios Presidente "Teniente Gálvez" Aisén Araucania Arica Biobío
-        Coquimbo "Los Lagos" "Los Ríos" Maule Tarapacá Valdivia
+        Amazonas Apurimac Callao Independencia Mercedes Meteoro Monteagudo Palacios Presidente "Teniente Gï¿½lvez" Aisï¿½n Araucania Arica Biobï¿½o
+        Coquimbo "Los Lagos" "Los Rï¿½os" Maule Tarapacï¿½ Valdivia
     }
     monitor = {
-        Atahualpa "Diego de Almagro" "Francisco Pizarro" "Hernando de Soto" Huáscar "Huayna Cápac" "Manco Cápac" Pachacuti "Túpac Amaru" "Túpac Inca"
-        Anganemon Butapichón Colo-Colo Curiñancu Guaiquimilla Huáscar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
+        Atahualpa "Diego de Almagro" "Francisco Pizarro" "Hernando de Soto" Huï¿½scar "Huayna Cï¿½pac" "Manco Cï¿½pac" Pachacuti "Tï¿½pac Amaru" "Tï¿½pac Inca"
+        Anganemon Butapichï¿½n Colo-Colo Curiï¿½ancu Guaiquimilla Huï¿½scar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
     }
     clipper_transport = {
-        Caupolican Chalaco Chimbote Colón Constitución "Contraalmirante Haza" "General Lerzundi" "Guardian Ríos" Independencia Iquitos
-        Limeña Oroya Perú Pucallpa "San Martín" "Santa Fe" "Santa Rosa" Tacna Talismán Vilcanota Coihaique Concepción Copiapo "Del Toro"
-        Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua "San José" "San Pedro" "San Rafael" "Santa Inés"
-        "Santa María" Santiago Sarmiento Talca Temuco Yulton
+        Caupolican Chalaco Chimbote Colï¿½n Constituciï¿½n "Contraalmirante Haza" "General Lerzundi" "Guardian Rï¿½os" Independencia Iquitos
+        Limeï¿½a Oroya Perï¿½ Pucallpa "San Martï¿½n" "Santa Fe" "Santa Rosa" Tacna Talismï¿½n Vilcanota Coihaique Concepciï¿½n Copiapo "Del Toro"
+        Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua "San Josï¿½" "San Pedro" "San Rafael" "Santa Inï¿½s"
+        "Santa Marï¿½a" Santiago Sarmiento Talca Temuco Yulton
     }
     steam_transport = {
-        Caupolican Chalaco Chimbote Colón Constitución "Contraalmirante Haza" "General Lerzundi" "Guardian Ríos" Independencia Iquitos
-        Limeña Oroya Perú Pucallpa "San Martín" "Santa Fe" "Santa Rosa" Tacna Talismán Vilcanota Coihaique Concepción Copiapo "Del Toro"
-        Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua "San José" "San Pedro" "San Rafael" "Santa Inés"
-        "Santa María" Santiago Sarmiento Talca Temuco Yulton
+        Caupolican Chalaco Chimbote Colï¿½n Constituciï¿½n "Contraalmirante Haza" "General Lerzundi" "Guardian Rï¿½os" Independencia Iquitos
+        Limeï¿½a Oroya Perï¿½ Pucallpa "San Martï¿½n" "Santa Fe" "Santa Rosa" Tacna Talismï¿½n Vilcanota Coihaique Concepciï¿½n Copiapo "Del Toro"
+        Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua "San Josï¿½" "San Pedro" "San Rafael" "Santa Inï¿½s"
+        "Santa Marï¿½a" Santiago Sarmiento Talca Temuco Yulton
     }
     commerce_raider = {
-        "Almirante Guise" "Almirante Villar" América Arno Chanchamayo Chorrillos "Coronel Portillo" Cuzco Pilcomayo "Teniente Rodríguez"
+        "Almirante Guise" "Almirante Villar" Amï¿½rica Arno Chanchamayo Chorrillos "Coronel Portillo" Cuzco Pilcomayo "Teniente Rodrï¿½guez"
         "Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello
     }
 }

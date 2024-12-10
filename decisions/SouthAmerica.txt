@@ -301,6 +301,7 @@ our_brothers_the_gauchos = {
 			nationalism_n_imperialism = 1
 			OR = {
 			is_greater_power = yes
+			}
 		}
 		
 		effect = {
