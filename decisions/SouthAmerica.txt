@@ -54,11 +54,11 @@ political_decisions = {
 	
 		allow = {
 			war_policy = jingoism
-			relation = { who = URU value = -100 }
+			relation = { who = FRA value = 100 }
+			relation = { who = ENG value = 100 }
 		}
 	
 		effect = {
-			effect = {
 			set_country_flag = brazil_attacks
 			any_country = {
                 limit = { capital_scope = {continent = south_america } }
@@ -68,11 +68,16 @@ political_decisions = {
             months = 60
         }
             }
-			prestige = -10
-			badboy = 10
+			PRG = {
+				all_core = { add_core = BRZ }
+			}
+			URU = {
+				all_core = { add_core = BRZ }
+			}
+		prestige = 20
+		badboy = 10
 		}
 	}
-		}
 	
 	
 
