@@ -1,4 +1,29 @@
 political_decisions = {
+		
+		# Brazil Decisions
+		claim_guyana = {
+		potential = {
+			OR = {
+				tag = BRZ
+				tag = GCO
+				tag = VNZ
+			}
+			NOT = { has_country_flag = guyana_claimed }
+		}
+		allow = {
+			owns = 2241
+			owns = 2240
+			owns = 2239
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = guyana_claimed
+			FRA_2241 = { add_core = THIS }
+			NET_2240 = { add_core = THIS }
+			ENG_1979 = { add_core = THIS }
+		}
+	}
+
 	fatherland_volunteers = {
 		potential = {
 			tag = BRZ
@@ -18,24 +43,42 @@ political_decisions = {
 		}
 	}
 
-	law_1420_of_general_common_education = {
-		potential = {
-			tag = ARG
+	Dom_Pedro_Desire = {
+	
+		potential = { 
+			tag = BRZ
 			NOT = {
-				has_country_flag = 1420_passed
+				has_country_flag = brazil_attacks
 			}
 		}
+	
 		allow = {
-			social_science = 1
-			ruling_party_ideology = conservative
+			war_policy = jingoism
+			relation = { who = URU value = -100 }
 		}
+	
 		effect = {
-			years_of_research = 0.2
-			set_country_flag = 1420_passed
+			effect = {
+			set_country_flag = brazil_attacks
+			any_country = {
+                limit = { capital_scope = {continent = south_america } }
+                        casus_belli = {
+            target = BRZ
+            type = cut_down_to_size
+            months = 60
+        }
+            }
+			prestige = -10
+			badboy = 10
 		}
 	}
+		}
+	
+	
 
-		# Peru Bolivia decisions
+
+
+		# Peru Bolivia Decisions
 	peru_bolivia_unification = {
         potential = {
             OR = {
@@ -103,6 +146,25 @@ political_decisions = {
         }
     }
 
+
+# Argentina Decisions
+
+	law_1420_of_general_common_education = {
+		potential = {
+			tag = ARG
+			NOT = {
+				has_country_flag = 1420_passed
+			}
+		}
+		allow = {
+			social_science = 1
+			ruling_party_ideology = conservative
+		}
+		effect = {
+			years_of_research = 0.2
+			set_country_flag = 1420_passed
+		}
+	}
 
 		# La Plata Decisions
 	la_plata_unification = {
@@ -340,32 +402,6 @@ our_brothers_the_gauchos = {
 				factor = 0
 				badboy = 0.6
 			}		
-		}
-	}
-}
-
-
-
-	claim_guyana = {
-		potential = {
-			OR = {
-				tag = BRZ
-				tag = GCO
-				tag = VNZ
-			}
-			NOT = { has_country_flag = guyana_claimed }
-		}
-		allow = {
-			owns = 2241
-			owns = 2240
-			owns = 2239
-		}
-		effect = {
-			prestige = 10
-			set_country_flag = guyana_claimed
-			FRA_2241 = { add_core = THIS }
-			NET_2240 = { add_core = THIS }
-			ENG_1979 = { add_core = THIS }
 		}
 	}
 }
