@@ -1,6 +1,4 @@
-#Buenos Aires Region (272000)
-#Under rule of Argentina 1836
-#Buenos Aires (132000/33000 POPS)
+#Buenos Aires
 2348 = {
     aristocrats = {
         culture = platinean
@@ -41,7 +39,7 @@
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 34391
+        size = 3000
     }
 
     farmers = {
@@ -49,8 +47,10 @@
         religion = catholic
         size = 48268
     }
+
 }
-#Junin (56000/14000 POPS)
+
+#Junin
 2349 = {
     aristocrats = {
         culture = platinean
@@ -73,7 +73,7 @@
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 34391
+        size = 1000
     }
 
     farmers = {
@@ -81,8 +81,10 @@
         religion = catholic
         size = 27266
     }
+
 }
-#Azul (12000/3000 POPS)
+
+#Azul
 2350 = {
     aristocrats = {
         culture = platinean
@@ -113,8 +115,10 @@
         religion = catholic
         size = 13265
     }
+
 }
-#La Plata (4000/1000 POPS)
+
+#La Plata
 2351 = {
     aristocrats = {
         culture = platinean
@@ -145,8 +149,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Mar del Plata (12000/3000 POPS)
+
+#Mar del Plata
 2352 = {
     aristocrats = {
         culture = platinean
@@ -177,9 +183,10 @@
         religion = catholic
         size = 13265
     }
+
 }
-#Under loose authority of Argentina 1836
-#Trenque Lanquen (12000/9000 POPS)
+
+#Trenque Lanquen
 2353 = {
     clergymen = {
         culture = platinean
@@ -234,8 +241,10 @@
         religion = animist
         size = 8843
     }
+
 }
-#Bahia Blanca (24000/6000 POPS)
+
+#Bahia Blanca
 2354 = {
     clergymen = {
         culture = platinean
@@ -290,8 +299,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Carmen (20000/5000 POPS)
+
+#Carmen
 2355 = {
     clergymen = {
         culture = platinean
@@ -346,10 +357,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Corrientes Region (164000)
-#Under rule of Argentina 1836
-#Corrientes (96000/24000 POPS)
+
+#Corrientes
 2356 = {
     aristocrats = {
         culture = platinean
@@ -416,8 +427,10 @@
         religion = animist
         size = 13509
     }
+
 }
-#Curuzu Cuatia (16000/4000 POPS)
+
+#Curuzu Cuatia
 2357 = {
     aristocrats = {
         culture = platinean
@@ -472,8 +485,10 @@
         religion = catholic
         size = 8964
     }
+
 }
-#Santo Tomas (28000/7000 POPS)
+
+#Santo Tomas
 2358 = {
     clergymen = {
         culture = platinean
@@ -552,8 +567,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Colon (8000/2000 POPS)
+
+#Colon
 2359 = {
     aristocrats = {
         culture = platinean
@@ -584,8 +601,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Parana (16000/4000 POPS)
+
+#Parana
 2360 = {
     aristocrats = {
         culture = platinean
@@ -616,10 +635,10 @@
         religion = catholic
         size = 17807
     }
+
 }
-#Santa Fe Region (72000)
-#Under rule of Argentina 1836
-#Santa Esperitu (8000/2000 POPS)
+
+#Santa Espiritu
 2361 = {
     aristocrats = {
         culture = platinean
@@ -650,8 +669,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Rosario (56000/14000 POPS)
+
+#Reconquista
 2362 = {
     aristocrats = {
         culture = platinean
@@ -694,8 +715,10 @@
         religion = catholic
         size = 45935
     }
+
 }
-#Reconquista (8000/2000 POPS)
+
+#Rosario
 2363 = {
     aristocrats = {
         culture = platinean
@@ -726,10 +749,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Chaco Region (76000) #see Paraguay.txt for balance of region
-#Under loose authority of Argentina 1836
-#Resistencia (16000/4000 POPS)
+
+#Resistencia
 2364 = {
     aristocrats = {
         culture = platinean
@@ -790,8 +813,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Villa Angela (16000/4000 POPS)
+
+#Villa Angela
 2365 = {
     aristocrats = {
         culture = platinean
@@ -846,9 +871,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Under loose authority of Paraguay 1836
-#Formosa (24000/6000 POPS) #now part of Argentina
+
+#Formosa
 2366 = {
     aristocrats = {
         culture = platinean
@@ -909,8 +935,10 @@
         religion = catholic
         size = 5140
     }
+
 }
-#Xolotas (20000/5000 POPS) #now part of Argentina
+
+#Xolotas
 2367 = {
     aristocrats = {
         culture = platinean
@@ -941,10 +969,10 @@
         religion = animist
         size = 26132
     }
+
 }
-#Salta Region (36000)
-#Under rule of Argentina 1836
-#Salta (16000/4000 POPS)
+
+#Salta
 2368 = {
     aristocrats = {
         culture = platinean
@@ -987,8 +1015,10 @@
         religion = catholic
         size = 11299
     }
+
 }
-#Jujuy (8000/2000 POPS)
+
+#Jujuy
 2369 = {
     aristocrats = {
         culture = platinean
@@ -1019,8 +1049,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Cochinoca (4000/1000 POPS)
+
+#Cochinoca
 2370 = {
     aristocrats = {
         culture = platinean
@@ -1051,8 +1083,10 @@
         religion = catholic
         size = 1530
     }
+
 }
-#Equia (4000/1000 POPS)
+
+#Equia
 2371 = {
     aristocrats = {
         culture = platinean
@@ -1083,8 +1117,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Rivadavia (4000/1000 POPS)
+
+#Rivadavia
 2372 = {
     aristocrats = {
         culture = platinean
@@ -1115,10 +1151,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Tucuman Region (36000)
-#Under rule of Argentina 1836
-#Tucuman (20000/5000 POPS)
+
+#Tucuman
 2373 = {
     aristocrats = {
         culture = platinean
@@ -1161,8 +1197,10 @@
         religion = catholic
         size = 15842
     }
+
 }
-#Catamarca (12000/3000 POPS)
+
+#Catamarca
 2374 = {
     aristocrats = {
         culture = platinean
@@ -1193,8 +1231,10 @@
         religion = catholic
         size = 13265
     }
+
 }
-#Vinchina (4000/1000 POPS)
+
+#Vinchina
 2375 = {
     aristocrats = {
         culture = platinean
@@ -1225,10 +1265,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Santiago del Estero Region (40000)
-#Under rule of Argentina 1836
-#Santiago del Estero (16000/4000 POPS)
+
+#Santiago del Estero
 2376 = {
     aristocrats = {
         culture = platinean
@@ -1271,8 +1311,10 @@
         religion = catholic
         size = 17708
     }
+
 }
-#Anatuya (16000/4000 POPS)
+
+#Anatuya
 2377 = {
     clergymen = {
         culture = platinean
@@ -1327,8 +1369,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Mailin (8000/2000 POPS)
+
+#Mailin
 2378 = {
     aristocrats = {
         culture = platinean
@@ -1359,10 +1403,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Cordoba Region (136000)
-#Under rule of Argentina 1836
-#Cordoba de Argentina (84000/21000 POPS)
+
+#Cordoba de Argentina
 2379 = {
     aristocrats = {
         culture = platinean
@@ -1405,8 +1449,10 @@
         religion = catholic
         size = 50603
     }
+
 }
-#Villa Nueva (8000/2000 POPS)
+
+#Villa Nueva
 2380 = {
     aristocrats = {
         culture = platinean
@@ -1437,8 +1483,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Rio Cuarto (8000/2000 POPS)
+
+#Rio Cuarto
 2381 = {
     aristocrats = {
         culture = platinean
@@ -1469,8 +1517,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#San Luis (8000/2000 POPS)
+
+#San Luis
 2383 = {
     aristocrats = {
         culture = platinean
@@ -1501,9 +1551,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Under the loose rule of Argentina 1836
-#Renanco (20000/5000 POPS)
+
+#Renanco
 2382 = {
     clergymen = {
         culture = platinean
@@ -1558,8 +1609,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Mercedes (8000/2000 POPS)
+
+#Mercedes
 2384 = {
     clergymen = {
         culture = platinean
@@ -1614,10 +1667,10 @@
         religion = animist
         size = 4421
     }
+
 }
-#La Rioja Region (40000)
-#Under rule of Argentina 1836
-#La Rioja (16000/4000 POPS)
+
+#La Rioja
 2385 = {
     aristocrats = {
         culture = platinean
@@ -1660,8 +1713,10 @@
         religion = catholic
         size = 18178
     }
+
 }
-#Santa Rita (8000/2000 POPS)
+
+#Santa Rita
 2386 = {
     aristocrats = {
         culture = platinean
@@ -1692,8 +1747,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#San Juan de la Frontera (12000/3000 POPS)
+
+#San Juan
 2387 = {
     aristocrats = {
         culture = platinean
@@ -1724,8 +1781,10 @@
         religion = catholic
         size = 13265
     }
+
 }
-#Calingasta (4000/1000 POPS)
+
+#Calingasta
 2388 = {
     aristocrats = {
         culture = platinean
@@ -1756,10 +1815,10 @@
         religion = catholic
         size = 4421
     }
+
 }
-#Mendoza Region (32000)
-#Under rule of Argentina 1836
-#Mendoza (12000/3000 POPS)
+
+#Mendoza
 2389 = {
     aristocrats = {
         culture = platinean
@@ -1802,8 +1861,10 @@
         religion = catholic
         size = 13067
     }
+
 }
-#San Rafael (8000/2000 POPS)
+
+#San Rafael
 2390 = {
     aristocrats = {
         culture = platinean
@@ -1834,9 +1895,10 @@
         religion = catholic
         size = 8843
     }
+
 }
-#Under the loose rule of Argentina 1836
-#Neuquen (12000/3000 POPS)
+
+#Nequen
 2391 = {
     clergymen = {
         culture = platinean
@@ -1891,10 +1953,10 @@
         religion = animist
         size = 8843
     }
+
 }
-#Rio Negro-La Pampa Region (52000)
-#Under the loose rule of Argentina 1836
-#Viedma (12000/3000 POPS)
+
+#Viedma
 2392 = {
     aristocrats = {
         culture = platinean
@@ -1925,8 +1987,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Telen (12000/3000 POPS)
+
+#Telen
 2393 = {
     aristocrats = {
         culture = platinean
@@ -1957,8 +2021,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Bariloche (16000/4000 POPS)
+
+#Bariloche
 2394 = {
     clergymen = {
         culture = platinean
@@ -2013,8 +2079,10 @@
         religion = animist
         size = 18052
     }
+
 }
-#Curaco (12000/3000 POPS)
+
+#Curaco
 2395 = {
     aristocrats = {
         culture = platinean
@@ -2045,10 +2113,10 @@
         religion = animist
         size = 13265
     }
+
 }
-#Patagonia Region (20000)
-#Under the loose rule of Argentina 1836
-#Rawson (4000/1000 POPS)
+
+#Rawson
 2396 = {
     aristocrats = {
         culture = platinean
@@ -2079,8 +2147,10 @@
         religion = animist
         size = 4421
     }
+
 }
-#Esquel (4000/1000 POPS)
+
+#Esquel
 2397 = {
     aristocrats = {
         culture = platinean
@@ -2111,8 +2181,10 @@
         religion = animist
         size = 4421
     }
+
 }
-#Puerto Deseado (4000/1000 POPS)
+
+#Puerto Deseado
 2398 = {
     aristocrats = {
         culture = platinean
@@ -2143,8 +2215,10 @@
         religion = animist
         size = 4421
     }
+
 }
-#Rio Gallegos (4000/1000 POPS)
+
+#Rio Galleagos
 2399 = {
     aristocrats = {
         culture = platinean
@@ -2175,8 +2249,10 @@
         religion = animist
         size = 4421
     }
+
 }
-#Rio Grande (4000/1000 POPS)
+
+#Rio Grande
 2400 = {
     aristocrats = {
         culture = platinean
@@ -2207,10 +2283,10 @@
         religion = animist
         size = 4421
     }
+
 }
-#Paraguay Region (16000) #see Paraguay.txt & Brazil.txt for balance of region
-#Under loose authority of Paraguay 1836
-#Posadas (16000/4000 POPS) #now part of Argentina
+
+#Posadas
 2554 = {
     clergymen = {
         culture = platinean
@@ -2265,4 +2341,6 @@
         religion = animist
         size = 13265
     }
+
 }
+
